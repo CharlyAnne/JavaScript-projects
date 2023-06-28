@@ -1,1 +1,1 @@
-This repository contains mini projects developed with HTML, CSS and JavaScript to facilitate my learning
+This repository contains mini to complex javascript projects, developed to faciliate my upskill.
