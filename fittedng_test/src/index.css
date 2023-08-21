@@ -1,0 +1,48 @@
+:root {
+  --color-navbar: linear-gradient(to bottom, #4b417a, #537db8);
+  --color-black: #090909;
+  --color-white: #ffffff;
+  --color-grey: #a0a0a0;
+  --color-light-grey: #f3f3f3;
+  --color-dark-grey: #353535;
+  --color-maroon: #451111;
+  --color-blue: #0000aa;
+
+  --font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+  --font-size-xsmall: 1rem;
+  --font-size-small: 1.2rem;
+  --font-size-medium: 1.4rem;
+  --font-size-large: 1.8rem;
+
+  --btn-display: inline-block;
+  --btn-padding: 1.5rem 3rem;
+  --btn-border-rad: 0.4rem;
+  --btn-border: var(--color-white) solid 0.2rem;
+  --btn-color: var(--color-white);
+  --btn-background: transparent;
+  --btn-text-decoration: none;
+  --btn-font-size: var(--font-size-small);
+  --btn-hover-color: var(--color-white);
+  --btn-hover-text-decoration: none;
+  --btn-hover-background: var(--color-light-grey);
+
+  --nav-item-font-weight: 400;
+  --nav-item-font-size: var(--font-size-medium);
+  --nav-item-letter-spacing: 0.04rem;
+  --nav-item-display: inline-block;
+  --nav-item-margin: 2rem 0 2rem 2rem;
+  --nav-item-padding: 2rem 0;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
